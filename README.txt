@@ -1,6 +1,10 @@
 # blackhole-ransomware
 blackhole is a ransomware coded in c#
 
+Its only for educational purposes
+I will not be responsible for anything.
+
+
                               __
                             .d$$b
                           .' TO$;\\
