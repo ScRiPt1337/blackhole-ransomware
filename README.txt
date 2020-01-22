@@ -30,12 +30,6 @@ blackhole is a ransomware coded in c#
 ````````````````````````````````````````````````````````````````````````````````  
 
 
-
-
-![alt text](https://raw.githubusercontent.com/ScRiPt1337/blackhole-ransomware/master/dsdsd.jpg)
-
-
-
 How to generate ransomware
 1. Run the keygen.exe and generate your RSA public and private key
 2. Run the builder Enter the full path to the PUT_THIS_KEY_INSIDE_SOURCECODE.txt file 
