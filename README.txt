@@ -6,7 +6,6 @@ I will not be responsible for anything.
 
 KEY = rupamadarchodxxx$$$XXX!!!
 
-JOIN OUR discord : https://discord.gg/ZmBeFqP
 
                               __
                             .d$$b
